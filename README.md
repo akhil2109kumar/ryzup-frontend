@@ -2,6 +2,17 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+# Envs 
+
+Create .env file and past this dummy account details for google login
+
+(
+    GOOGLE_CLIENT_ID=59228428604-lq3qsbetekjp34hg462l9gn7mksvv0l1.apps.googleusercontent.com
+    GOOGLE_CLIENT_SECRET=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
+    NEXTAUTH_SECRET=HHDSJJSPEWIEJwjeejrj
+    NEXTAUTH_URL="http://localhost:3000"
+)
+
 First, run the development server:
 
 ```bash
